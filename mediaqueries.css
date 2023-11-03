@@ -26,6 +26,7 @@
     #experience,
     .experience-details-container {
         margin-top: 2rem;
+        height: fit-content;
     }
 
     #profile,
@@ -123,5 +124,10 @@
 
     .text-container {
         text-align: justify;
+    }
+
+    .section__pic-container-liquid{
+        height: 370px;
+        width: 370px;
     }
 }
