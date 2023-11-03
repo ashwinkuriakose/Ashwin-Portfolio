@@ -178,8 +178,8 @@ section{
     background: linear-gradient(45deg, #979797  0%, #fcf9f9 100%);
 	animation: morph 8s ease-in-out infinite;
 	border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
-	height: 380px;
-	width: 380px;
+	height: 400px;
+	width: 400px;
 	/* box-shadow: 0 0 20px #000; */
     margin: auto 0;
     display: flex;
