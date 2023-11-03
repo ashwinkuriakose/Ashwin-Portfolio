@@ -60,9 +60,12 @@
 
 @media screen and (max-width: 600px) {
 
-    #contact,
     footer {
-        height: 40vh;
+        height: 5vh;
+    }
+
+    #contact {
+        height: 35vh;
     }
 
     #profile {
@@ -127,7 +130,7 @@
     }
 
     .section__pic-container-liquid{
-        height: 370px;
-        width: 370px;
+        height: 350px;
+        width: 350px;
     }
 }
