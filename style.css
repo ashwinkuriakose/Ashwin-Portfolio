@@ -178,8 +178,8 @@ section{
     background: linear-gradient(45deg, #979797  0%, #fcf9f9 100%);
 	animation: morph 8s ease-in-out infinite;
 	border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
-	height: 400px;
-	width: 400px;
+	height: 380px;
+	width: 380px;
 	/* box-shadow: 0 0 20px #000; */
     margin: auto 0;
     display: flex;
@@ -347,6 +347,7 @@ section{
 
 #experience{
     position: relative;
+    height: 65vh;
 }
 
 .experience-sub-title{
@@ -413,9 +414,9 @@ article .icon{
 
 #contact{
     display: flex;
-    justify-content: center;
+    justify-content: start;
     flex-direction: column;
-    height: 70vh;
+    height: 40vh;
 }
 
 .contact-info-upper-container{
@@ -453,7 +454,7 @@ article .icon{
 
 footer{
     height: 5vh;
-    margin: 1rem 1rem;
+    /* margin: 1rem 1rem; */
 }
 
 footer p{
