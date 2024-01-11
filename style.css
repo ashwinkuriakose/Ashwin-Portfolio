@@ -311,9 +311,9 @@ section{
 
 .about-pic{
     border-radius: 2rem;
-    border-radius: 2rem;
+    /* border-radius: 2rem;
     border: rgb(53, 53, 53) 0.1rem solid;
-    border-color: rgb(163, 163, 163);
+    border-color: rgb(163, 163, 163); */
 }
 
 .arrow{
