@@ -8,6 +8,11 @@
         flex-wrap: wrap;
     }
 
+    #about, #experience,
+    .section-container {
+        height: fit-content;
+    }
+
     #contact,
     #projects {
         height: fit-content;
